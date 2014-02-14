@@ -1,0 +1,20 @@
+{
+	"name": "bson2csv",
+	"version": "0.1.1",
+	"author": "Ulpian Morina <ulpianmorina@gmail.com>",
+	"private": false,
+	"scripts": {
+		"start": "coffee bson2csv.coffee --bf file.bson --cf file.csv --log true"
+	},
+	"contributors": [ 
+		{
+			"name": "Iyad Assaf",
+			"email": "iyadassaflondon@gmail.com"
+		}
+	],
+	"dependencies": {
+		"coffee-script":"*",
+		"mongodb":"*",
+		"json2csv":"*"
+	}
+}
