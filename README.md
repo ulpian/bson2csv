@@ -1,6 +1,8 @@
 bson2csv
 ========
 
+[![Gitter chat](https://badges.gitter.im/ulpmori/bson2csv.png)](https://gitter.im/ulpmori/bson2csv)
+
 whenever those tricky .bson files need to go csv :)
 
 Sometimes its you just want something to work without a lot of effort :), this was my case, I had .bson files of my mongodump and I had to send them over to a non-tech team member who needed it in csv.
